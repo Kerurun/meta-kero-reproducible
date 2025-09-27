@@ -4,6 +4,9 @@
 解析・図を再現する **Rスクリプト**を公開します。誌面掲載図はフォントや余白を微調整する場合がありますが、
 **推定値・信頼区間は同一**です。
 
+This repo provides the meta-analysis dataset (CSV) and R scripts to reproduce analyses and base figures.
+Published figures may have minor layout tweaks (fonts/margins), but **estimates and CIs are identical**.
+
 ---
 
 ## 実行方法
