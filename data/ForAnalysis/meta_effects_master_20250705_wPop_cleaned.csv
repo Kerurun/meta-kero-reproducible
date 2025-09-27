@@ -1,0 +1,34 @@
+StudyID,AuthorYear,Outcome,Gradient,r,z,SE_z,n_sites,UrbanMetricType,StudyID_numeric,City,Year,Population,LogPop,Source,URL
+ID82,Ganci_2022,Richness,Full,-0.594067969,-0.683929383,0.242535625,20,single,82,Campo Grande,2018,900000,13.71015004,論文中,NA
+ID82,Ganci_2022,Richness,Urban_Suburban,-0.49570677,-0.543598113,0.447213595,8,single,82,Campo Grande,2018,900000,13.71015004,論文中,NA
+ID82,Ganci_2022,Richness,Suburban_Rural,-0.554145204,-0.624343817,0.25,19,single,82,Campo Grande,2018,900000,13.71015004,論文中,NA
+ID82,Ganci_2022,Richness,Urban_Rural,-0.497908028,-0.546520725,0.316227766,13,single,82,Campo Grande,2018,900000,13.71015004,論文中,NA
+ID82,Ganci_2022,Abundance,Full,-0.084340294,-0.08454113,0.242535625,20,single,82,Campo Grande,2018,900000,13.71015004,論文中,NA
+ID82,Ganci_2022,Abundance,Urban_Suburban,-0.491423689,-0.537935582,0.447213595,8,single,82,Campo Grande,2018,900000,13.71015004,論文中,NA
+ID82,Ganci_2022,Abundance,Suburban_Rural,0.050840446,0.050884318,0.25,19,single,82,Campo Grande,2018,900000,13.71015004,論文中,NA
+ID82,Ganci_2022,Abundance,Urban_Rural,-0.359413069,-0.376211741,0.316227766,13,single,82,Campo Grande,2018,900000,13.71015004,論文中,NA
+ID282,Holzer_2017,Richness,Urban_Suburban,-0.438980245,-0.47096693,0.164398987,20,multi,282,Hanoi,2012,6865200,15.74197573,GSO Vietnam,https://danso.info/en/dan-so-ha-noi/#google_vignette
+ID282,Holzer_2017,Richness,Urban_Suburban,-0.438980245,-0.47096693,0.164398987,20,multi,282,Da Nang,2011,951700,13.76600514,GSO Vietnam,NA
+ID282,Holzer_2017,Richness,Urban_Suburban,-0.438980245,-0.47096693,0.164398987,20,multi,282,Ho Chi Minh City,2012,7660300,15.85156171,GSO Vietnam,https://danso.info/en/Ho-Chi-Minh-City-population/
+ID282,Holzer_2017,Richness,Suburban_Rice,-0.156173762,-0.157462378,0.164398987,20,multi,282,Hanoi,2012,6865200,15.74197573,GSO Vietnam,https://danso.info/en/dan-so-ha-noi/#google_vignette
+ID282,Holzer_2017,Richness,Suburban_Rice,-0.156173762,-0.157462378,0.164398987,20,multi,282,Da Nang,2011,951700,13.76600514,GSO Vietnam,NA
+ID282,Holzer_2017,Richness,Suburban_Rice,-0.156173762,-0.157462378,0.164398987,20,multi,282,Ho Chi Minh City,2012,7660300,15.85156171,GSO Vietnam,https://danso.info/en/Ho-Chi-Minh-City-population/
+ID282,Holzer_2017,Richness,Urban_Rice,-0.506987051,-0.558666084,0.164398987,20,multi,282,Hanoi,2012,6865200,15.74197573,GSO Vietnam,https://danso.info/en/dan-so-ha-noi/#google_vignette
+ID282,Holzer_2017,Richness,Urban_Rice,-0.506987051,-0.558666084,0.164398987,20,multi,282,Da Nang,2011,951700,13.76600514,GSO Vietnam,NA
+ID282,Holzer_2017,Richness,Urban_Rice,-0.506987051,-0.558666084,0.164398987,20,multi,282,Ho Chi Minh City,2012,7660300,15.85156171,GSO Vietnam,https://danso.info/en/Ho-Chi-Minh-City-population/
+ID136,Hutto_2021,Richness,Full,-0.346,-0.361,0.144,51,multi,136,Anderson County,2018,200482,12.20847975,US Census Bureau,NA
+ID136,Hutto_2021,Richness,Full,-0.346,-0.361,0.144,51,multi,136,Oconee County,2018,78374,11.26924752,US Census Bureau,NA
+ID136,Hutto_2021,Richness,Full,-0.346,-0.361,0.144,51,multi,136,Pickens County,2018,124937,11.73556489,US Census Bureau,NA
+ID136,Hutto_2021,Richness,Urban_Suburban,-0.107,-0.107,0.183,33,multi,136,Anderson County,2018,200482,12.20847975,US Census Bureau,NA
+ID136,Hutto_2021,Richness,Urban_Suburban,-0.107,-0.107,0.183,33,multi,136,Oconee County,2018,78374,11.26924752,US Census Bureau,NA
+ID136,Hutto_2021,Richness,Urban_Suburban,-0.107,-0.107,0.183,33,multi,136,Pickens County,2018,124937,11.73556489,US Census Bureau,NA
+ID136,Hutto_2021,Richness,Suburban_Rural,-0.27,-0.277,0.152,46,multi,136,Anderson County,2018,200482,12.20847975,US Census Bureau,NA
+ID136,Hutto_2021,Richness,Suburban_Rural,-0.27,-0.277,0.152,46,multi,136,Oconee County,2018,78374,11.26924752,US Census Bureau,NA
+ID136,Hutto_2021,Richness,Suburban_Rural,-0.27,-0.277,0.152,46,multi,136,Pickens County,2018,124937,11.73556489,US Census Bureau,NA
+ID136,Hutto_2021,Richness,Urban_Rural,-0.538,-0.602,0.224,23,multi,136,Anderson County,2018,200482,12.20847975,US Census Bureau,NA
+ID136,Hutto_2021,Richness,Urban_Rural,-0.538,-0.602,0.224,23,multi,136,Oconee County,2018,78374,11.26924752,US Census Bureau,NA
+ID136,Hutto_2021,Richness,Urban_Rural,-0.538,-0.602,0.224,23,multi,136,Pickens County,2018,124937,11.73556489,US Census Bureau,NA
+ID673,Mazgajska_1996,Richness,Full,-0.538,-0.601336629,0.176776695,35,single,673,Warsaw,1992-1994,1600000,14.28551419,Mazgajska (1996) Ekologia Polska,論文中
+ID111,Pereyra_2021,Richness,Full,-0.466,-0.504,0.196,29,single,111,San Salvador de Jujuy,2010,260438,12.47012011,"Censo Nacional de Poblaci?n, Hogares y Viviendas 2010",NA
+ID319,Shu_2016,Richness,Full,-0.674178847,-0.818364732,0.204124145,24,single,319,Shanghai,2014,24151500,16.99985705,上海市統計局,https://tjj.sh.gov.cn/tjgb/20150227/0014-277392.html
+ID319,Shu_2016,Abundance,Full,-0.64370539,-0.764475206,0.204124145,24,single,319,Shanghai,2014,24151500,16.99985705,上海市統計局,https://tjj.sh.gov.cn/tjgb/20150227/0014-277392.html
