@@ -47,3 +47,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# generated figures: ignore everything but keep the folder
+data/ForAnalysis/figures/*
+!data/ForAnalysis/figures/.gitkeep
