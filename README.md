@@ -12,7 +12,7 @@
 - **Data**：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
 
 ## DOI
-- **Release v1.0.0 DOI**：https://doi.org/10.5281/zenodo.17218718
+- **Release v1.0.0 DOI**：https://doi.org/10.5281/zenodo.17218717
 
 ## 引用方法（Citation）
-- OkOSHI Kae (2025). Meta-analysis of urbanization effects on anurans: meta-kero-reproducible package (vX.Y.Z). Zenodo. https://doi.org/10.5281/zenodo.17218717
+- **OkOSHI Kae (2025). Meta-analysis of urbanization effects on anurans: meta-kero-reproducible package (vX.Y.Z). Zenodo. https://doi.org/10.5281/zenodo.17218717
